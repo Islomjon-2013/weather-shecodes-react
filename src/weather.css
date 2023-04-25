@@ -1,0 +1,37 @@
+ul {
+  display: flex;
+  justify-content: space-around;
+}
+ul a {
+  text-decoration: none;
+  color: red;
+}
+ul li {
+  list-style: none;
+  font-size: 20px;
+}
+.box {
+  border-radius: 20px;
+}
+.input-box {
+  display: flex;
+  margin-bottom: 20px;
+}
+.weather {
+  display: flex;
+  justify-content: space-between;
+}
+.week {
+  font-size: 20px;
+}
+.cloud {
+  font-size: 15px;
+}
+.weather span {
+}
+h5 {
+  color: red;
+}
+.degree {
+  font-size: 40px;
+}
